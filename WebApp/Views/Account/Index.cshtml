@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Model.Account>;
+
+@{
+    ViewBag.title = "Index"; //khai bao razor cho 1 khoi;
+}
+<div>
+    <h1>
+        List of Student
+    </h1>
+</div>
+<div>
+    <a asp-action="Create" asp-controller="Account">Create new</a>
+</div>
+<div>
+    <h3 style="color:red">
+        @ViewBag.msg
+    </h3>
+</div>
+<div>
+    <table class="table table-striped">
+        <thead>
+            <tr style="text-align:center; font-weight:bold">
+                <th>Account No</th>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Balance</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr style="text-align:center;">
+                    <td>@item.no</td>
+                    <td>@item.name</td>
+                    <td>@item.address</td>
+                    <td>@item.balance</td>
+                    <td>
+                        @Html.ActionLink("Delete","Delete",new { no = @item.no})
+                    </td>
+                   
+                </tr>
+            }
+           
+        </tbody>
+    </table>
+</div>

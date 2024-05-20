@@ -1,0 +1,39 @@
+﻿@model Model.Account;
+@{
+    ViewBag.title = "Create";
+}
+<div>
+    <h1>Add New</h1>
+</div>
+<form asp-action="Create" asp-controller="Account" method="post" class="form-control">
+    <div class="form-group">
+        @Html.LabelFor(model=>model.no)
+        @Html.EditorFor(model =>model.no)
+        @Html.ValidationMessageFor(model=>model.no)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model=>model.name)
+        @Html.EditorFor(model =>model.name)
+        @Html.ValidationMessageFor(model=>model.name)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model=>model.pincode)
+        @Html.EditorFor(model =>model.pincode)
+        @Html.ValidationMessageFor(model=>model.pincode)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model=>model.address)
+        @Html.EditorFor(model =>model.address)
+        @Html.ValidationMessageFor(model=>model.address)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model=>model.balance)
+        @Html.EditorFor(model =>model.balance)
+        @Html.ValidationMessageFor(model=>model.balance)
+    </div>
+
+    <div>
+        <input type="submit" value="Create" class="btn btn-success" />
+    </div>
+
+</form>

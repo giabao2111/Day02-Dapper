@@ -1,0 +1,85 @@
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\WebAPI.exe
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\WebAPI.dll
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.dll
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\Dapper.dll
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\Model.dll
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\WebAPI\bin\Debug\net6.0\Model.pdb
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\libman.json
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\WebAPI.exe
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\WebAPI.dll
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\Dapper.dll
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\Model.dll
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\Model.pdb
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.dll
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\Day02-Dapper\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll

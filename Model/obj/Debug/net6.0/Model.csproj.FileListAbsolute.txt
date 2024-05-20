@@ -1,0 +1,24 @@
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\Model\bin\Debug\net6.0\Model.deps.json
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\Model\bin\Debug\net6.0\Model.dll
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\Model\bin\Debug\net6.0\Model.pdb
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\Model\obj\Debug\net6.0\Model.dll
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\Model\obj\Debug\net6.0\refint\Model.dll
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\Model\obj\Debug\net6.0\Model.pdb
+C:\Aptech\Semester 3\4.DMAWS\0.Practice\Day02-Dapper\Model\obj\Debug\net6.0\ref\Model.dll
+C:\Users\PC\Desktop\Day02-Dapper\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\PC\Desktop\Day02-Dapper\Model\bin\Debug\net6.0\Model.dll
+C:\Users\PC\Desktop\Day02-Dapper\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\PC\Desktop\Day02-Dapper\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Day02-Dapper\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Day02-Dapper\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Day02-Dapper\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\PC\Desktop\Day02-Dapper\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Day02-Dapper\Model\obj\Debug\net6.0\Model.dll
+C:\Users\PC\Desktop\Day02-Dapper\Model\obj\Debug\net6.0\refint\Model.dll
+C:\Users\PC\Desktop\Day02-Dapper\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\PC\Desktop\Day02-Dapper\Model\obj\Debug\net6.0\ref\Model.dll
